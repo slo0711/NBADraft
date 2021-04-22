@@ -5,7 +5,7 @@ This game is a simple version of ESPN’s NBA fantasy mock draft. Using python a
 
 ## Draft Instructions
 
-*Please make sure NBA_fantasy_draft.py and nba_data.csv are in the same folder. Head over to terminal and run the program by entering NBA_fantasy_draft.py to start the draft.
+*Please make sure NBA_fantasy_draft.py and nba_data.csv are in the same folder. Head over to terminal and run the program by entering "python NBA_fantasy_draft.py" to start the draft.
 
 1) You will be promoted to enter the number of teams you want to create for the fantasy league. I have put guidelines in place to only allow 5-13 teams for each league. Entering any numbers otherwise will throw an error.
 2) The program will randomly select a number from the total teams created, and that will be YOUR team. The other teams will be played by the computer.
