@@ -1,4 +1,4 @@
-# NBADraft
+# NBAFantasyMockDraft
 Python script that runs a NBA fantasy draft simulation
 
 This game is a simple version of ESPN’s NBA fantasy mock draft. Using python and the 2020 seaons data from basketball refernce, I created the worlds simplest mock draft. 
