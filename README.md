@@ -3,7 +3,7 @@ Python script that runs a NBA fantasy draft simulation
 
 This game is a simple version of ESPN’s NBA fantasy mock draft. Using python and the 2020 seaons data from basketball refernce, I created the worlds simplest mock draft. 
 
-Draft Instructions
+## Draft Instructions
 
 *Please make sure proj_1.py and nba_data.csv are in the same over. Head over to terminal and run the program by entering python proj_1.py to start the draft.
 1) You will be promoted to enter the number of teams you want to create for the fantasy league. I have put guidelines in place to only allow 5-13 teams for each league. Entering any numbers otherwise will throw an error.
@@ -20,6 +20,6 @@ which player you want to draft. You enter the rank of the player that you want t
 board you want to view. (e.x. returning 75 will show 75 players on the board)
 8) This process repeats for 13 rounds.
 9) At the end of the draft you can 
-1) View the players on the team,
-2) See the final standings
-3) Exit the game
+* View the players on the team,
+* See the final standings
+* Exit the game
