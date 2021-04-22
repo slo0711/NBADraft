@@ -19,8 +19,7 @@ which player you want to draft. You enter the rank of the player that you want t
 7) If you want to show a longer list of the board return 0, and it will ask you how big of the draft
 board you want to view. (e.x. returning 75 will show 75 players on the board)
 8) This process repeats for 13 rounds.
-9) At the end of the draft you can 1) view the players on the team, 2) see the final standings, or
-3) exit the game.
-Challenges: One of the main challenges was understanding the structure of how the program would work. I needed to think of how I can create “x” about of Player objects and indexing them appropriately evetime I called their method. I eventually created a list of Player() classes that called a draft method every round. Additionally, cleaning the data initially to make it simple and readable for NP to work with was also a bit time consuming.
-Additional features: In the future I would have the draft board rank the players by preseason and the final “fantasy scores” come from their end of season numbers. I thought of doing it this time around, but it was a lot of additional data cleaning that would need to be done. Additionally, I want to eventually add some AI/ML logic into the program. Knowing the corresponding stats to their fantasy values, I can create an optimal draft strategy for computer that would be hard to beat.
-   
+9) At the end of the draft you can 
+1) View the players on the team,
+2) See the final standings
+3) Exit the game
